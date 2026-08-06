@@ -1,8 +1,8 @@
 class Drey < Formula
   desc "Sharing proxy for language servers: one server process per workspace"
   homepage "https://github.com/mario/drey"
-  url "https://github.com/mario/drey/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "ece87708ce2acd0df50c32fe31d067d3c49aeabc5021d08643cd5722a6957c7a"
+  url "https://github.com/mario/drey/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "970f12c9cb87448bfa7d211e2d08b308ef4b97bc743dba2a77222fbc75f68ae0"
   license "Apache-2.0"
   head "https://github.com/mario/drey.git", branch: "main"
 
